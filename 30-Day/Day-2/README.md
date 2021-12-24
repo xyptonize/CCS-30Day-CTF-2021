@@ -2,15 +2,15 @@
 
 task/sict-ccs.png
 
-> ** Вэб холбоосоор орж үзээд шалгавал static вэб болох нь мэдэгдэнэ. ** > \*\* Hint ээ харвал
-
+> **Вэб холбоосоор орж үзээд шалгавал static вэб болох нь мэдэгдэнэ.** 
+> Hint ээ харвал
     - /flag = [0,1,2..]
     - /flag/0.html
-    байх бөгөөд үүний дагуу орж шалгана **
+ бөгөөд үүний дагуу орж шалгана
     */flag/0.html холбоос дээр **nothing here байна.***
     - */flag/1.html холбоос дээр **deep search байна.***
     - */flag/2.html холбоос дээр **engeel garara shalgad ywad bhin gejuu xD.***
-    - *үүнээс  цааш шалгавал **engeel garara shalgad ywad bhin gejuu xD.** байх бөгөөд 3-999.html хооронд flag-аа нуусан нь ойлгомжтой болно. *
+    - *үүнээс  цааш шалгавал **engeel garara shalgad ywad bhin gejuu xD.** байх бөгөөд 3-999.html хооронд flag-аа нуусан нь ойлгомжтой болно.*
 
 ## script бичиж ажилуулвал
 
