@@ -1,5 +1,4 @@
-## Chall
-enge -ын source кодыг localhost дээр ажиллуулж үзэхээр оруулав.
+## Challenge -ын source кодыг localhost дээр ажиллуулж үзэхээр оруулав.
 
 >###  Todo List
  - source folder дотор ажиллана.
