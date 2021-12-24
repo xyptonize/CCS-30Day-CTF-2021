@@ -3,10 +3,10 @@
 <body>
     <?php
     $servername = "localhost";
-    $username = "admin";
+    $username = "root";
     $password = "password";
-    $port = 3307;
-    $conn = new mysqli($servername, $username, $password, $port);
+
+    $conn = new mysqli($servername, $username, $password);
     //$query = "SELECT * FROM FLAG.SQLI;"
     //echo $query;
     if ($conn->connect_error) {
