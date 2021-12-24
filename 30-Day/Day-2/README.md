@@ -1,6 +1,6 @@
 # Программ үргэлж 0 ээс эхэлдэг
 
-./task/sict-ccs.png
+task/sict-ccs.png
 
 > ** Вэб холбоосоор орж үзээд шалгавал static вэб болох нь мэдэгдэнэ. ** > \*\* Hint ээ харвал
 
@@ -31,4 +31,4 @@ for i in range(600,700,1):
 
 # /flag/666.html холбоос дээр
 
-- **ccsCTF{ScRIPT@KIddi3} ** flag-aa олж авна.
+- **ccsCTF{ScRIPT@KIddi3}** flag-aa олж авна.
