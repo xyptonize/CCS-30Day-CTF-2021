@@ -1,8 +1,10 @@
 # Программ үргэлж 0 ээс эхэлдэг
 
 task/sict-ccs.png
-![task image] (https://github.com/ccs-club/CCS-30Day-CTF-2021/blob/c4b0f98c23d8ca3c88ee9dad599a2bf60af1dde7/30-Day/Day-2/task/Screenshot%20from%202021-12-24%2010-02-55.png)
+![task image](https://github.com/ccs-club/CCS-30Day-CTF-2021/blob/c4b0f98c23d8ca3c88ee9dad599a2bf60af1dde7/30-Day/Day-2/task/Screenshot%20from%202021-12-24%2010-02-55.png)
 > **Вэб холбоосоор орж үзээд шалгавал static вэб болох нь мэдэгдэнэ.** 
+
+
 > **Hint ээ харвал
     - /flag = [0,1,2..]
     - /flag/0.html
