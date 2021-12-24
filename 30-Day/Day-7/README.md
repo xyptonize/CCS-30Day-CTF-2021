@@ -2,9 +2,11 @@
 
 ![challenge image](https://github.com/ccs-club/CCS-30Day-CTF-2021/blob/badangel/30-Day/Day-7/task/challenge.png)
 
-> **Вэб холбоосоор орж үзвэл * 
+
+> ### **Вэб холбоосоор орж үзвэл** 
 
 ![task image](https://github.com/ccs-club/CCS-30Day-CTF-2021/blob/badangel/30-Day/Day-7/task/task.png)
+
 
 ### Нэр, имэйл хаягаа оруулж илгээвэл
 
