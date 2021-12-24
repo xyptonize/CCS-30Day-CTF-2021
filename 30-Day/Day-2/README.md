@@ -16,7 +16,7 @@
     | /flag/1.html холбоос дээр | deep search |
     | /flag/2.html холбоос дээр | engeel garara shalgad ywad bhin gejuu xD |
 
-# *үүнээс  цааш шалгавал **engeel garara shalgad ywad bhin gejuu xD.** байх бөгөөд 3-999.html хооронд flag-аа нуусан нь ойлгомжтой болно.*
+# *үүнээс  цааш шалгавал **"engeel garara shalgad ywad bhin gejuu xD."** байх бөгөөд /flag/3.html-/flag/999.html хооронд flag-аа нуусан нь ойлгомжтой байна.*
 
 ## script бичиж ажилуулвал
 
