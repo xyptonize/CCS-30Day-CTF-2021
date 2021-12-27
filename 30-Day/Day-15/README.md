@@ -1,11 +1,11 @@
 # Мат-даа сайн хүн л хийж чадна . v2
 
-![challenge image](https://github.com/ccs-club/CCS-30Day-CTF-2021/blob/main/30-Day/Day-15/tasks/challenge.png)
+![challenge image](https://github.com/ccs-club/CCS-30Day-CTF-2021/blob/a87d8191404263781e0f572d7a2ce45c65ff8f89/30-Day/Day-15/tasks/challenge.png)
 
 
 > ## **Вэб холбоосоор орж үзвэл** 
 
-![task image](https://github.com/ccs-club/CCS-30Day-CTF-2021/blob/main/30-Day/Day-15/tasks/task.png)
+![task image](https://github.com/ccs-club/CCS-30Day-CTF-2021/blob/a87d8191404263781e0f572d7a2ce45c65ff8f89/30-Day/Day-15/tasks/task.png)
 
 > **md5 hash-аар  encrypt хийсэн 2 тооны нийлбэрийг олох нь харагдана.**
 
