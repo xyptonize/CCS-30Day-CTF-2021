@@ -1,6 +1,6 @@
 # Python script бичиж хийвэл илүү амархан байх болно.
 
-![challenge image](https://github.com/ccs-club/CCS-30Day-CTF-2021/blob/badangel/Programming/easy/tasks/challenge.png)
+![challenge image](https://github.com/ccs-club/CCS-30Day-CTF-2021/blob/6d71348b061c7fbc982f2d084273ff7c18fc41be/Programming/hard/tasks/challenge.png)
 
 ## File-ыг татвал
 
