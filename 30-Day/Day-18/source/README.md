@@ -6,7 +6,7 @@
 
 - **docker build -t sum_hash .**
 
-- **docker run -dit --name sum_hash_numbers -p 9999:9999 --restart always  sum_hash**
+- **docker run -dit --name sum_hash_numbers -p 9999:9999 --restart always  --rm sum_hash**
 
 - nc localhost 9999
 
