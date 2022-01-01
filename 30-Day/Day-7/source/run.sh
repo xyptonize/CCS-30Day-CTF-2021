@@ -1,0 +1,1 @@
+docker exec -it source_db_1 mysql -u root -p "password" < sqli.sql

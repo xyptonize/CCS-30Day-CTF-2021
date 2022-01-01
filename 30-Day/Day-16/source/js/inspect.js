@@ -1,0 +1,1 @@
+console.log("ccsCTF{30-DAY-CHALLENGE}");
