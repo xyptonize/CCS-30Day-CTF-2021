@@ -94,7 +94,7 @@ def start():
     thread = threading.Thread(target=handle_client, args=(conn, addr))
     thread.start()
 
-    print(f"[ACTIVE CONNECTIONS] {threading.activeCount() - 1}")
+    print("[ACTIVE CONNECTIONS")
 
 
 print("[STARTING] server is starting...")
