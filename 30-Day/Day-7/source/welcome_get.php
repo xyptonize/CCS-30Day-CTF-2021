@@ -5,8 +5,8 @@
     $servername = "localhost";
     $username = "root";
     $password = "password";
-
-    $conn = new mysqli($servername, $username, $password);
+    $port = 3307;
+    $conn = new mysqli($servername, $username, $password, $port);
     //$query = "SELECT * FROM FLAG.SQLI;"
     //echo $query;
     if ($conn->connect_error) {
