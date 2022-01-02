@@ -15,7 +15,7 @@
 ```
 
     import binascii
-    f = open("notMorse.txt",'r')
+    f = open("notmorse/notMorse.txt",'r')
     morse = f.read()
     morse = morse.replace("." , "1")
     morse = morse.replace('-' , '0')
