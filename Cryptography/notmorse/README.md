@@ -1,4 +1,4 @@
-# Splitter
+# Not Morse
 
 ![challenge image](https://github.com/ccs-club/CCS-30Day-CTF-2021/blob/badangel/Cryptography/notmorse/challenge.png)
 ## File-ыг татвал
