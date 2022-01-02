@@ -1,7 +1,6 @@
 # Greatest Common What?
 
-
-![challenge image](https://github.com/ccs-club/CCS-30Day-CTF-2021/blob/badangel/Programming/greatest_common_what/tasks/challenge.png)
+<img src="greatest_common_what/tasks/challenge.png" height=750px width=510px>
 
 ## File-ыг татвал
 
