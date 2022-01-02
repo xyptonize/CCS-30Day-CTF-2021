@@ -1,6 +1,6 @@
 # Greatest Common What?
 
-<img src="greatest_common_what/tasks/challenge.png" height=750px width=510px>
+<img src="challenge.png" height=750px width=510px>
 
 ## File-ыг татвал
 
